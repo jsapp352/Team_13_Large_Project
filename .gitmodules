@@ -1,0 +1,6 @@
+[submodule "Team_13_Large_Project_API"]
+	path = Team_13_Large_Project_API
+	url = https://github.com/jsapp352/Team_13_Large_Project_API
+[submodule "Team_13_Large_Project_Mobile_App"]
+	path = Team_13_Large_Project_Mobile_App
+	url = https://github.com/jsapp352/Team_13_Large_Project_Mobile_App
